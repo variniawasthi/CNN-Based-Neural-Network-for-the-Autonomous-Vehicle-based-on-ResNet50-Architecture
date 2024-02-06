@@ -26,7 +26,7 @@ ARCHITECTURE: The proposed architecture is inspired from the NVIDIA's implementa
 
 TRAINING PROCEDURE: The training of proposed model involves, Dataset Splitting, the dataset is divided into training and validation sets (80% for training, 20% for validation). Loss Function, Mean Squared Error (MSE) is used as the loss function, which measures the discrepancy between predicted and ground truth steering angles. Optimization, The Adam optimizer is employed to minimize the loss, Parameters: the proposed model epoch and batch size is 25 and 128 respectively. Data Augmentation, Data augmentation techniques, such as horizontal flipping, are applied to increase the dataset's diversity. The Fig.6. illustrate the distribution of steering angles in the divided dataset. 
 
-![Uploading Untitled.png…]()
+![Untitled](https://github.com/swapnilgupta14/CNN-Based-Neural-Network-for-the-Autonomous-Vehicle-based-on-ResNet50-Architecture/assets/85231522/97ae31a2-a1c5-4a68-905c-d0c1c4dbad63)
 
 
 MODEL EVALUATION:
