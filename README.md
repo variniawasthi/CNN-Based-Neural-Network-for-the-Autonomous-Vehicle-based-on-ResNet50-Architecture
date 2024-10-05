@@ -1,5 +1,5 @@
-Swapnil Gupta: mail.swapnilgupta@gmail.com
 Varini Awasthi: variniawasthi@gmail.com
+Swapnil Gupta: mail.swapnilgupta@gmail.com
 
 # CNN-Based-Neural-Network-for-the-Autonomous-Vehicle
 Abstract: An in-depth assessment of the emergence of autonomous vehicle technology, following its trajectory from traditional rule-based techniques, highlighted by ALVINN, to the revolutionary potential of Deep Neural Networks (DNNs) and Convolutional Neural Networks (CNNs). The study also presents a CNN-based optimized model, illustrating the effect of DNN and CNN on perception, decision-making, and control in autonomous driving. Furthermore, it assesses the challenges faced in their implementation, solutions devised to address them, and outlines the potential future directions and advancements in the realm of autonomous vehicles. This comprehensive analysis aims to provide a profound understanding of the paradigm shift in autonomous driving technology and its significance in shaping the future of transportation.
